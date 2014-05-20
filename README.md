@@ -1,7 +1,7 @@
 # RunModEnv
 
 This .bat file creates a run environment for mod2smp.exe
-mod2smp.exe requires '.in' input configuration files each of w
+mod2smp.exe requires '.in' input configuration files each of which
 refers to an individual array file, and output file.
 
 ##Outputs - There are two output files from this bat file

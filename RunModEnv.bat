@@ -2,22 +2,8 @@
 setlocal EnableDelayedExpansion
 rem ***********************************************************************
 rem  This bat file creates a run environment for mod2smp.exe
-rem  mod2smp.exe requires '.in' input configuration files each of which 
-rem  refers to an individual array file, and output file.
+rem  See README.md for more deails
 rem 
-rem  There are two output files from this bat file:
-rem    1. a 'X.in' file 
-rem    2. a 'RunMod2Smp1_10.txt' file 
-rem  
-rem  The RunMod2Smp1_10.txt file needs to renamed to RunMod2Smp1_10.bat to 
-rem  turn it into batch file.
-rem 
-rem  NOTES: 
-rem  1. The configuration file for this bat file should be located in the 
-rem  same folder and named config.json
-rem  2. The array files should be in a directory named /array_files
-rem  3. The array files should be in a directory named /array_files
-rem  
 rem Author: Sholto Maud
 rem Email: sholto.maud@gmail.com
 rem Mobile: 0424094227

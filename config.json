@@ -1,0 +1,12 @@
+{
+  "program" : "mod2smp.exe",
+  "gridSpec" : "BowenSurat.spc",
+  "boreSpec" : "mod2smp_5x_P95_LAABores.csv",
+  "boreCoord" : "mod2smp_5x_P95_LAABores.csv",
+  "format" : "f",
+  "stressPeriods" : 259,
+  "blankingVal" : "1e+30",
+  "timeUnit" : "d",
+  "startDate" : "30/12/1994",
+  "startTime" : "00_00_00",
+}

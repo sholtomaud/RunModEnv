@@ -12,8 +12,9 @@ The RunMod.txt file needs to renamed to RunMod.bat
 turn it into batch file.
 
 ## Useage
-1. The configuration file for this bat file should be located 
+0. Configure the json file. The configuration file for this bat file should be located 
 same folder and named config.json
+1. Run the batch file by double clicking on RunModEnv.bat. It will ask for your input.
 2. The array files folder can be drag and dropped into the command window 
 3. The output folder can be drag and dropped into the command window 
 
